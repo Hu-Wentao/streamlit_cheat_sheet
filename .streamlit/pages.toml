@@ -1,0 +1,70 @@
+# 用于配置 st.page 的元数据
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = ":house:"
+[[pages]]
+path = "src/in_file.py"
+name = "In_File"
+
+[[pages]]
+path = "src/in_form.py"
+name = "In_Form"
+
+[[pages]]
+path = "src/in_select.py"
+name = "In_Select"
+
+[[page]]
+path = "src/in_slider.py"
+name = "In_Slider"
+
+[[pages]]
+path = "src/out_chart.py"
+name = "Out_Chart"
+
+[[pages]]
+path = "src/out_media-anim.py"
+name = "Out_Media_Anim"
+
+[[pages]]
+path = "src/out_write.py"
+name = "Out_Write"
+
+[[pages]]
+path = "src/ui_layout.py"
+name = "Ui_Layout"
+
+
+[[pages]]
+path = "src/per_cache.py"
+name = "Per_Cache"
+
+[[pages]]
+path = "src/state_manager.py"
+name = "State_Manager"
+
+[[pages]]
+path = "src/url_get_params.py"
+name = "Url_Get_Params"
+
+
+
+[[pages]]
+path = "src/cfg_app.py"
+name = "Cfg_App"
+
+[[pages]]
+path = "src/cfg_secrets.py"
+name = "Cfg_Secrets"
+    
+[[pages]]
+path = "src/cfg_theme.py"
+name = "Cfg_Theme"
+
+[[pages]]
+path = "src/ext_component.py"
+name = "Ext_Component"
+
+
+
