@@ -5,7 +5,6 @@
 # 1 导入包
 import streamlit as st
 
-
 # 2.1 配置-布局
 st.set_page_config(layout="wide")
 
@@ -32,8 +31,13 @@ st.header("hello world")
 https://st-pages.streamlit.app/
 
 ### 使用
-```python
-pip install st-pages
+```shell
+# 安装依赖
+pip install -r requirements.txt
+```
+```shell
+# 启动
+streamlit run app.py
 ```
 
 
