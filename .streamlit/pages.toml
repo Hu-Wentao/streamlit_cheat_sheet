@@ -3,6 +3,7 @@
 path = "app.py"
 name = "Home"
 icon = ":house:"
+
 [[pages]]
 path = "src/in_file.py"
 name = "In_File"

@@ -24,9 +24,11 @@ https://github.com/okld/streamlit-elements
 """)
 
 # 侧边栏, 在侧边栏放一个 slider
-number = st.sidebar.slider('Select a number:', 0, 10, 5)
-st.write('Selected number from slider widget is:', number)
-
+# number = st.sidebar.slider('Select a number:', 0, 10, 5)
+# st.write('Selected number from slider widget is:', number)
+with st.sidebar:
+    number = st.slider('Select a number:', 0, 99, 5)
+    st.write('Selected number from slider widget is:', number)
 
 # 展开面板
 with st.expander('展开面板: About this app'):

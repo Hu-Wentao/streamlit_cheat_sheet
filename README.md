@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 ```shell
 # 启动
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 

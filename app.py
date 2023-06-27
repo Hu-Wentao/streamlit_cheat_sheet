@@ -9,7 +9,7 @@ st.markdown(
 
 ### streamlit 速览教程
 
-请查看本速览之前, 先完成[Streamlit 30天 速成](https://30days.streamlit.app/)
+请查看本速览之前, 先完成[Streamlit 30天 速成 https://30days.streamlit.app/](https://30days.streamlit.app/) 
 
 ## Todo
 - [ ] 添加 doc引用到app内部
